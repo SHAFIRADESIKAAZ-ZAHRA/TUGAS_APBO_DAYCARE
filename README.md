@@ -20,5 +20,5 @@ Daycare adalah layanan yang menyediakan perawatan dan pengawasan bagi anak-anak 
 
 ## Solusi Sistem Informasi Daycare :
 - Menambahkan fitur pelaporan real-time untuk memantau perkembangan anak secara akurat. 
-- Memastikan integrasi sistem dengan perangkat mobile untuk kemudahan akses bagi orang tua dan staf.
+- Memastikan sistem mudah diakses bagi orang tua dan staff.
 - Menerapkan protokol keamanan data yang ketat untuk melindungi informasi pribadi anak-anak dan keluarga.
